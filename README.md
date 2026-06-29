@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
