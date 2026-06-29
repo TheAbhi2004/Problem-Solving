@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -34,9 +35,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0155-min-stack) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
