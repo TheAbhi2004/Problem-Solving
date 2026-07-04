@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TheAbhi2004/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## String
 |  |
 | ------- |
@@ -110,4 +111,16 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TheAbhi2004/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TheAbhi2004/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TheAbhi2004/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
