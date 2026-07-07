@@ -59,6 +59,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sliding Window
 |  |
 | ------- |
