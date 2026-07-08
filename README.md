@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0933-number-of-recent-calls) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0933-number-of-recent-calls) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Heap (Priority Queue)
 |  |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0131-palindrome-partitioning) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
