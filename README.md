@@ -43,6 +43,7 @@
 | [0005-longest-palindromic-substring](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0131-palindrome-partitioning) |
+| [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1544-make-the-string-great) |
@@ -52,6 +53,7 @@
 | [0020-valid-parentheses](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1544-make-the-string-great) |
 ## Design
@@ -77,6 +79,7 @@
 | [0005-longest-palindromic-substring](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0148-sort-list) |
+| [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,4 +160,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
