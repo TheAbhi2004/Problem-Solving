@@ -11,6 +11,7 @@
 | [0221-maximal-square](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0239-sliding-window-maximum) |
+| [0735-asteroid-collision](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0735-asteroid-collision) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Hash Table
@@ -53,6 +54,7 @@
 | [0020-valid-parentheses](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1544-make-the-string-great) |
@@ -163,5 +165,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
