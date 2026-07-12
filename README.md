@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
@@ -108,6 +109,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -120,6 +122,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
