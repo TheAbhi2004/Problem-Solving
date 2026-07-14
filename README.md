@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0735-asteroid-collision) |
@@ -27,6 +28,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
@@ -35,6 +37,7 @@
 | [0148-sort-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Prefix Sum
@@ -193,4 +196,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
