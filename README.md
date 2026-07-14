@@ -10,6 +10,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0238-product-of-array-except-self) |
@@ -24,6 +25,7 @@
 | [0001-two-sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -111,6 +114,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -185,4 +189,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0045-jump-game-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
