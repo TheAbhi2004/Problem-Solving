@@ -5,16 +5,16 @@ class Solution
         Arrays.sort(g);
         Arrays.sort(s);
 
-        int i = 0; // children pointer
-        int j = 0; // cookies pointer
+        int i = 0; 
+        int j = 0; 
 
         while (i < g.length && j < s.length) 
         {
             if (s[j] >= g[i]) 
             {
-                i++; // child is satisfied
+                i++; 
             }
-            j++; // move to next cookie
+            j++; 
         }
 
         return i;
