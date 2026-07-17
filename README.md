@@ -11,6 +11,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0229-majority-element-ii) |
@@ -49,6 +50,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 ## Union-Find
 |  |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -143,6 +146,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
