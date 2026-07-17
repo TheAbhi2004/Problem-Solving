@@ -33,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1331-rank-transform-of-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
@@ -65,6 +66,7 @@
 | [0020-valid-parentheses](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -100,6 +102,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
