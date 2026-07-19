@@ -70,6 +70,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1544-make-the-string-great) |
@@ -83,6 +84,7 @@
 | [0735-asteroid-collision](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1544-make-the-string-great) |
 ## Design
 |  |
@@ -211,11 +213,13 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0455-assign-cookies) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting
 |  |
 | ------- |
