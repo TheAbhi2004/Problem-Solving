@@ -21,6 +21,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0735-asteroid-collision) |
 | [1331-rank-transform-of-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
@@ -109,6 +110,7 @@
 | [0239-sliding-window-maximum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
