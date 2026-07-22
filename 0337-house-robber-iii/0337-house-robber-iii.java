@@ -13,9 +13,11 @@
  *     }
  * }
  */
-class Solution {
+class Solution 
+{
 
-    public int rob(TreeNode root) {
+    public int rob(TreeNode root) 
+    {
         int[] ans = dfs(root);
         return Math.max(ans[0], ans[1]);
     }
