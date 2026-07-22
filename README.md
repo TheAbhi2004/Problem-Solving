@@ -26,6 +26,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/TheAbhi2004/Problem-Solving/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -104,6 +105,7 @@
 | [0009-palindrome-number](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/TheAbhi2004/Problem-Solving/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/TheAbhi2004/Problem-Solving/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Indexed Tree
