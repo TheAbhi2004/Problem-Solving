@@ -19,6 +19,7 @@
 | [0239-sliding-window-maximum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0735-asteroid-collision) |
@@ -54,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -107,6 +109,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/TheAbhi2004/Problem-Solving/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
