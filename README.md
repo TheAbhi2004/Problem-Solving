@@ -39,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1331-rank-transform-of-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
@@ -75,6 +76,7 @@
 | [0020-valid-parentheses](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
@@ -246,6 +248,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0383-ransom-note) |
 ## Number Theory
 |  |
 | ------- |
