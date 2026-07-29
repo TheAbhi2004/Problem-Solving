@@ -193,12 +193,14 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -279,5 +281,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
