@@ -23,6 +23,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0735-asteroid-collision) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -98,6 +99,7 @@
 | [0155-min-stack](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1544-make-the-string-great) |
@@ -191,11 +193,13 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0337-house-robber-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0337-house-robber-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -243,6 +247,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -271,4 +276,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
