@@ -188,6 +188,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0461-hamming-distance) |
 ## Tree
 |  |
 | ------- |
