@@ -81,6 +81,7 @@
 | [0005-longest-palindromic-substring](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0383-ransom-note) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
