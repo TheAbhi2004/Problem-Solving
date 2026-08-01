@@ -2,10 +2,6 @@ class Solution
 {
     public String minWindow(String s, String t) 
     {
-        if(t.length()==0)
-        {
-            return "";
-        }
         if(s.length()<t.length())
         {
             return "";
