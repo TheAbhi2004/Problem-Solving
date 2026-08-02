@@ -17,6 +17,7 @@
 | [0229-majority-element-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -143,6 +144,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
