@@ -31,6 +31,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/TheAbhi2004/Problem-Solving/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3731-find-missing-elements](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -49,6 +50,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1331-rank-transform-of-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3731-find-missing-elements](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
