@@ -83,6 +83,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0125-valid-palindrome) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0131-palindrome-partitioning](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0221-maximal-square) |
@@ -170,6 +172,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 ## Divide and Conquer
 |  |
