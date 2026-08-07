@@ -205,6 +205,7 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
@@ -212,6 +213,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
@@ -219,6 +221,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0337-house-robber-iii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0337-house-robber-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TheAbhi2004/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
