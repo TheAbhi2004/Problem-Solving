@@ -23,6 +23,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0724-find-pivot-index) |
 ## Union-Find
 |  |
 | ------- |
