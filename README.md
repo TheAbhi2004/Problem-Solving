@@ -321,4 +321,8 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
