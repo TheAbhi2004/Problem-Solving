@@ -8,7 +8,6 @@ class Solution
         }
         HashMap<Character,Integer> need = new HashMap<>();
         HashMap<Character,Integer> window = new HashMap<>();
-
         for(char ch:t.toCharArray())
         {
             need.put(ch,need.getOrDefault(ch,0)+1);
@@ -47,7 +46,6 @@ class Solution
         {
             return "";
         }
-
         return s.substring(start,start+minLength);
     }
 }
