@@ -4,7 +4,6 @@ class Solution
     {
         int f1=0,f2=0;
         int c1=0,c2=0;
-
         for(int num:nums)
         {
             if(f1==num)
@@ -44,10 +43,8 @@ class Solution
                 c2++;
             }
         }
-
         List<Integer> res = new ArrayList<>();
         int n = nums.length;
-
         if(c1>n/3)
             res.add(f1);
         if(c2>n/3)
