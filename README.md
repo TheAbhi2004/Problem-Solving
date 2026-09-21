@@ -11,6 +11,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0221-maximal-square) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -304,6 +306,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/TheAbhi2004/Problem-Solving/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -333,4 +336,20 @@
 |  |
 | ------- |
 | [1661-average-time-of-process-per-machine](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1661-average-time-of-process-per-machine) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
