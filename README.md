@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
@@ -62,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0217-contains-duplicate) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0148-sort-list) |
