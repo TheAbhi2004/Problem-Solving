@@ -229,6 +229,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -237,6 +238,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0110-balanced-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0337-house-robber-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TheAbhi2004/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -325,6 +328,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Doubly-Linked List
