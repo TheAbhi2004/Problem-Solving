@@ -12,6 +12,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0217-contains-duplicate) |
@@ -180,6 +181,7 @@
 | [0010-regular-expression-matching](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0131-palindrome-partitioning](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0337-house-robber-iii) |
