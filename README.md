@@ -99,6 +99,7 @@
 | [0005-longest-palindromic-substring](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0131-palindrome-partitioning) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0263-ugly-number) |
@@ -293,6 +295,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3498-reverse-degree-of-a-string) |
