@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0263-ugly-number) |
