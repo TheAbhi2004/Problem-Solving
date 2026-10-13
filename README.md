@@ -40,6 +40,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TheAbhi2004/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -80,6 +81,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -315,6 +317,7 @@
 | [0045-jump-game-ii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
