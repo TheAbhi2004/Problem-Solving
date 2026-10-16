@@ -357,6 +357,7 @@
 ## Database
 |  |
 | ------- |
+| [0585-investments-in-2016](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0585-investments-in-2016) |
 | [1070-product-sales-analysis-iii](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1070-product-sales-analysis-iii) |
 | [1661-average-time-of-process-per-machine](https://github.com/TheAbhi2004/Problem-Solving/tree/master/1661-average-time-of-process-per-machine) |
 ## Enumeration
