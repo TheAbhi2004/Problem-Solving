@@ -204,12 +204,14 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0203-remove-linked-list-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TheAbhi2004/Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/TheAbhi2004/Problem-Solving/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
