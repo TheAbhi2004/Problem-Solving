@@ -15,7 +15,7 @@ class Solution
         int required=need.size();
         int formed=0;
         int start=0;
-        int minLength = Integer.MAX_VALUE;
+        int minLength=Integer.MAX_VALUE;
         int left=0;
         for(int right=0;right<s.length();right++)
         {
@@ -27,13 +27,13 @@ class Solution
             }
             while(formed==required)
             {
-                int len = right-left+1;
+                int len=right-left+1;
                 if(len<minLength)
                 {
                     minLength=len;
                     start=left;
                 }
-                char leftChar = s.charAt(left);
+                char leftChar=s.charAt(left);
                 window.put(leftChar,window.get(leftChar)-1);
                 if(need.containsKey(leftChar)&&window.get(leftChar)<need.get(leftChar))
                 {
@@ -46,6 +46,7 @@ class Solution
         {
             return "";
         }
+
         return s.substring(start,start+minLength);
     }
 }
